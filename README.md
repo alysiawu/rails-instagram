@@ -25,3 +25,4 @@ Things you may want to cover:
 
 
 https://medium.com/luanotes/build-instagram-by-ruby-on-rails-part-1-fef7837ee399
+# rails-instagram
